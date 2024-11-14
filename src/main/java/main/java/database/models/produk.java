@@ -9,5 +9,5 @@ package main.java.database.models;
  * @author USER
  */
 public class produk {
-    
+    system.out.println("jere");
 }
