@@ -9,5 +9,6 @@ package main.java.database.models;
  * @author USER
  */
 public class supplier {
+    System.out.println("einsten kondoy");
     
 }
