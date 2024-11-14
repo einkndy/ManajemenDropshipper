@@ -10,4 +10,5 @@ package main.java.database.models;
  */
 public class produk {
     system.out.println("jere");
+    system.out.println;
 }
